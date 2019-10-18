@@ -1,0 +1,1623 @@
+[
+  {
+    "id": 1,
+"region": "Akdeniz Bölgesi",
+    "name": "Adana",
+	"plaka": 1,
+    "towns": [
+      "Aladağ",
+      "Ceyhan",
+      "Çukurova",
+      "Feke",
+      "İmamoğlu",
+      "Karaisalı",
+      "Karataş",
+      "Kozan",
+      "Pozantı",
+      "Saimbeyli",
+      "Sarıçam",
+      "Seyhan",
+      "Tufanbeyli",
+      "Yumurtalık",
+      "Yüreğir"
+    ]
+  },
+  {
+    "id": 2,
+	"region": "Güneydoğu Anadolu Bölgesi",
+    "name": "Adıyaman",
+	"plaka": 2,
+    "towns": [
+      "Besni",
+      "Çelikhan",
+      "Gerger",
+      "Gölbaşı",
+      "Kahta",
+      "Merkez",
+      "Samsat",
+      "Sincik",
+      "Tut"
+    ]
+  },
+  {
+	"id": 3,
+	"region": "Ege Bölgesi",
+    "name": "Afyonkarahisar",
+	"plaka": 3,
+    "towns": [
+      "Başmakçı",
+      "Bayat",
+      "Bolvadin",
+      "Çay",
+      "Çobanlar",
+      "Dazkırı",
+      "Dinar",
+      "Emirdağ",
+      "Evciler",
+      "Hocalar",
+      "İhsaniye",
+      "İscehisar",
+      "Kızılören",
+      "Merkez",
+      "Sandıklı",
+      "Sinanpaşa",
+      "Sultandağı",
+      "Şuhut"
+    ]
+  },
+  {
+    "id": 4,
+	"region": "Doğu Anadolu Bölgesi",
+    "name": "Ağrı",
+    "plaka": 4,
+    "towns": [
+      "Diyadin",
+      "Doğubayazıt",
+      "Eleşkirt",
+      "Hamur",
+      "Merkez",
+      "Patnos",
+      "Taşlıçay",
+      "Tutak"
+    ]
+  },
+  {
+    "id": 5,
+	"region": "Karadeniz Bölgesi",
+    "name": "Amasya",
+    "plaka": 5,
+    "towns": [
+      "Göynücek",
+      "Gümüşhacıköy",
+      "Hamamözü",
+      "Merkez",
+      "Merzifon",
+      "Suluova",
+      "Taşova"
+    ]
+  },
+  {
+    "id": 6,
+	"region": "İÇ ANADOLU",
+    "name": "Ankara",
+    "plaka": 6,
+    "towns": [
+      "Altındağ",
+      "Ayaş",
+      "Bala",
+      "Beypazarı",
+      "Çamlıdere",
+      "Çankaya",
+      "Çubuk",
+      "Elmadağ",
+      "Güdül",
+      "Haymana",
+      "Kalecik",
+      "Kızılcahamam",
+      "Nallıhan",
+      "Polatlı",
+      "Şereflikoçhisar",
+      "Yenimahalle",
+      "Gölbaşı",
+      "Keçiören",
+      "Mamak",
+      "Sincan",
+      "Kazan",
+      "Akyurt",
+      "Etimesgut",
+      "Evren",
+      "Pursaklar"
+    ]
+  },
+  {
+    "id": 7,
+	"region": "Akdeniz Bölgesi",
+    "name": "Antalya",
+    "plaka": 7,
+    "towns": [
+      "Akseki",
+      "Alanya",
+      "Elmalı",
+      "Finike",
+      "Gazipaşa",
+      "Gündoğmuş",
+      "Kaş",
+      "Korkuteli",
+      "Kumluca",
+      "Manavgat",
+      "Serik",
+      "Demre",
+      "İbradı",
+      "Kemer",
+      "Aksu",
+      "Döşemealtı",
+      "Kepez",
+      "Konyaaltı",
+      "Muratpaşa"
+    ]
+  },
+  {
+    "id": 8,
+	"region": "Karadeniz Bölgesi",
+    "name": "Artvin",
+    "plaka": 8,
+    "towns": [
+      "Ardanuç",
+      "Arhavi",
+      "Merkez",
+      "Borçka",
+      "Hopa",
+      "Şavşat",
+      "Yusufeli",
+      "Murgul"
+    ]
+  },
+  {
+    "id": 9,
+	"region": "Ege Bölgesi",
+    "name": "Aydın",
+    "plaka": 9,
+    "towns": [
+      "Merkez",
+      "Bozdoğan",
+      "Efeler",
+      "Çine",
+      "Germencik",
+      "Karacasu",
+      "Koçarlı",
+      "Kuşadası",
+      "Kuyucak",
+      "Nazilli",
+      "Söke",
+      "Sultanhisar",
+      "Yenipazar",
+      "Buharkent",
+      "İncirliova",
+      "Karpuzlu",
+      "Köşk",
+      "Didim"
+    ]
+  },
+  {
+    "id": 10,
+	"region": "Marmara Bölgesi",
+    "name": "Balıkesir",
+    "plaka": 10,
+    "towns": [
+      "Altıeylül",
+      "Ayvalık",
+      "Merkez",
+      "Balya",
+      "Bandırma",
+      "Bigadiç",
+      "Burhaniye",
+      "Dursunbey",
+      "Edremit",
+      "Erdek",
+      "Gönen",
+      "Havran",
+      "İvrindi",
+      "Karesi",
+      "Kepsut",
+      "Manyas",
+      "Savaştepe",
+      "Sındırgı",
+      "Gömeç",
+      "Susurluk",
+      "Marmara"
+    ]
+  },
+  {
+    "id": 11,
+	"region": "Marmara Bölgesi",
+    "name": "Bilecik",
+    "plaka": 11,
+    "towns": [
+      "Merkez",
+      "Bozüyük",
+      "Gölpazarı",
+      "Osmaneli",
+      "Pazaryeri",
+      "Söğüt",
+      "Yenipazar",
+      "İnhisar"
+    ]
+  },
+  {
+    "id": 12,
+	"region": "Doğu Anadolu Bölgesi",
+    "name": "Bingöl",
+    "plaka": 12,
+    "towns": [
+      "Merkez",
+      "Genç",
+      "Karlıova",
+      "Kiğı",
+      "Solhan",
+      "Adaklı",
+      "Yayladere",
+      "Yedisu"
+    ]
+  },
+  {
+    "id": 13,
+	"region": "Doğu Anadolu Bölgesi",
+    "name": "Bitlis",
+    "plaka": 13,
+    "towns": [
+      "Adilcevaz",
+      "Ahlat",
+      "Merkez",
+      "Hizan",
+      "Mutki",
+      "Tatvan",
+      "Güroymak"
+    ]
+  },
+  {
+    "id": 14,
+	"region": "Karadeniz Bölgesi",
+    "name": "Bolu",
+    "plaka": 14,
+    "towns": [
+      "Merkez",
+      "Gerede",
+      "Göynük",
+      "Kıbrıscık",
+      "Mengen",
+      "Mudurnu",
+      "Seben",
+      "Dörtdivan",
+      "Yeniçağa"
+    ]
+  },
+  {
+    "id": 15,
+	"region": "Akdeniz Bölgesi",
+    "name": "Burdur",
+    "plaka": 15,
+    "towns": [
+      "Ağlasun",
+      "Bucak",
+      "Merkez",
+      "Gölhisar",
+      "Tefenni",
+      "Yeşilova",
+      "Karamanlı",
+      "Kemer",
+      "Altınyayla",
+      "Çavdır",
+      "Çeltikçi"
+    ]
+  },
+  {
+    "id": 16,
+	"region": "Marmara Bölgesi",
+    "name": "Bursa",
+    "plaka": 16,
+    "towns": [
+      "Gemlik",
+      "İnegöl",
+      "İznik",
+      "Karacabey",
+      "Keles",
+      "Mudanya",
+      "Mustafakemalpaşa",
+      "Orhaneli",
+      "Orhangazi",
+      "Yenişehir",
+      "Büyükorhan",
+      "Harmancık",
+      "Nilüfer",
+      "Osmangazi",
+      "Yıldırım",
+      "Gürsu",
+      "Kestel"
+    ]
+  },
+  {
+    "id": 17,
+	"region": "Marmara Bölgesi",
+    "name": "Çanakkale",
+    "plaka": 17,
+    "towns": [
+      "Ayvacık",
+      "Bayramiç",
+      "Biga",
+      "Bozcaada",
+      "Çan",
+      "Merkez",
+      "Eceabat",
+      "Ezine",
+      "Gelibolu",
+      "Gökçeada",
+      "Lapseki",
+      "Yenice"
+    ]
+  },
+  {
+    "id": 18,
+	"region": "İÇ ANADOLU",
+    "name": "Çankırı",
+    "plaka": 18,
+    "towns": [
+      "Merkez",
+      "Çerkeş",
+      "Eldivan",
+      "ilgaz",
+      "Kurşunlu",
+      "Orta",
+      "Şabanözü",
+      "Yapraklı",
+      "Atkaracalar",
+      "Kızılırmak",
+      "Bayramören",
+      "Korgun"
+    ]
+  },
+  {
+    "id": 19,
+	"region": "Karadeniz Bölgesi",
+    "name": "Çorum",
+    "plaka": 19,
+    "towns": [
+      "Alaca",
+      "Bayat",
+      "Merkez",
+      "İskilip",
+      "Kargı",
+      "Mecitözü",
+      "Ortaköy",
+      "Osmancık",
+      "Sungurlu",
+      "Boğazkale",
+      "Uğurludağ",
+      "Dodurga",
+      "Laçin",
+      "Oğuzlar"
+    ]
+  },
+  {
+    "id": 20,
+	"region": "Ege Bölgesi",
+    "name": "Denizli",
+    "plaka": 20,
+    "towns": [
+      "Acıpayam",
+      "Buldan",
+      "Çal",
+      "Çameli",
+      "Çardak",
+      "Çivril",
+      "Merkez",
+      "Merkezefendi",
+      "Pamukkale",
+      "Güney",
+      "Kale",
+      "Sarayköy",
+      "Tavas",
+      "Babadağ",
+      "Bekilli",
+      "Honaz",
+      "Serinhisar",
+      "Baklan",
+      "Beyağaç",
+      "Bozkurt"
+    ]
+  },
+  {
+    "id": 21,
+    "region": "Güneydoğu Anadolu Bölgesi",
+    "name": "Diyarbakır",
+    "plaka": 21,
+    "towns": [
+      "Kocaköy",
+      "Çermik",
+      "Çınar",
+      "Çüngüş",
+      "Dicle",
+      "Ergani",
+      "Hani",
+      "Hazro",
+      "Kulp",
+      "Lice",
+      "Silvan",
+      "Eğil",
+      "Bağlar",
+      "Kayapınar",
+      "Sur",
+      "Yenişehir",
+      "Bismil"
+    ]
+  },
+  {
+    "id": 22,
+    "region": "Marmara Bölgesi",
+    "name": "Edirne",
+    "plaka": 22,
+    "towns": [
+      "Merkez",
+      "Enez",
+      "Havsa",
+      "İpsala",
+      "Keşan",
+      "Lalapaşa",
+      "Meriç",
+      "Uzunköprü",
+      "Süloğlu"
+    ]
+  },
+  {
+    "id": 23,
+    "region": "Doğu Anadolu Bölgesi",
+    "name": "Elazığ",
+    "plaka": 23,
+    "towns": [
+      "Ağın",
+      "Baskil",
+      "Merkez",
+      "Karakoçan",
+      "Keban",
+      "Maden",
+      "Palu",
+      "Sivrice",
+      "Arıcak",
+      "Kovancılar",
+      "Alacakaya"
+    ]
+  },
+  {
+    "id": 24,
+    "region": "Doğu Anadolu Bölgesi",
+    "name": "Erzincan",
+    "plaka": 24,
+    "towns": [
+      "Çayırlı",
+      "Merkez",
+      "İliç",
+      "Kemah",
+      "Kemaliye",
+      "Refahiye",
+      "Tercan",
+      "Üzümlü",
+      "Otlukbeli"
+    ]
+  },
+  {
+    "id": 25,
+    "region": "Doğu Anadolu Bölgesi",
+    "name": "Erzurum",
+    "plaka": 25,
+    "towns": [
+      "Aşkale",
+      "Çat",
+      "Hınıs",
+      "Horasan",
+      "İspir",
+      "Karayazı",
+      "Narman",
+      "Oltu",
+      "Olur",
+      "Pasinler",
+      "Şenkaya",
+      "Tekman",
+      "Tortum",
+      "Karaçoban",
+      "Uzundere",
+      "Pazaryolu",
+      "Köprüköy",
+      "Palandöken",
+      "Yakutiye",
+      "Aziziye"
+    ]
+  },
+  {
+    "id": 26,
+    "region": "İÇ ANADOLU",
+    "name": "Eskişehir",
+    "plaka": 26,
+    "towns": [
+      "Çifteler",
+      "Mahmudiye",
+      "Mihalıççık",
+      "Sarıcakaya",
+      "Seyitgazi",
+      "Sivrihisar",
+      "Alpu",
+      "Beylikova",
+      "İnönü",
+      "Günyüzü",
+      "Han",
+      "Mihalgazi",
+      "Odunpazarı",
+      "Tepebaşı"
+    ]
+  },
+  {
+    "id": 27,
+    "region": "Güneydoğu Anadolu Bölgesi",
+    "name": "Gaziantep",
+    "plaka": 27,
+    "towns": [
+      "Araban",
+      "İslahiye",
+      "Nizip",
+      "Oğuzeli",
+      "Yavuzeli",
+      "Şahinbey",
+      "Şehitkamil",
+      "Karkamış",
+      "Nurdağı"
+    ]
+  },
+  {
+    "id": 28,
+    "region": "Karadeniz Bölgesi",
+    "name": "Giresun",
+    "plaka": 28,
+    "towns": [
+      "Alucra",
+      "Bulancak",
+      "Dereli",
+      "Espiye",
+      "Eynesil",
+      "Merkez",
+      "Görele",
+      "Keşap",
+      "Şebinkarahisar",
+      "Tirebolu",
+      "Piraziz",
+      "Yağlıdere",
+      "Çamoluk",
+      "Çanakçı",
+      "Doğankent",
+      "Güce"
+    ]
+  },
+  {
+    "id": 29,
+    "region": "Karadeniz Bölgesi",
+    "name": "Gümüşhane",
+    "plaka": 29,
+    "towns": [
+      "Merkez",
+      "Kelkit",
+      "Şiran",
+      "Torul",
+      "Köse",
+      "Kürtün"
+    ]
+  },
+  {
+    "id": 30,
+    "region": "Doğu Anadolu Bölgesi",
+    "name": "Hakkari",
+    "plaka": 30,
+    "towns": [
+      "Çukurca",
+      "Merkez",
+      "Şemdinli",
+      "Yüksekova"
+    ]
+  },
+  {
+    "id": 31,
+    "region": "Akdeniz Bölgesi",
+    "name": "Hatay",
+    "plaka": 31,
+    "towns": [
+      "Altınözü",
+      "Arsuz",
+      "Defne",
+      "Dörtyol",
+      "Hassa",
+      "Antakya",
+      "İskenderun",
+      "Kırıkhan",
+      "Payas",
+      "Reyhanlı",
+      "Samandağ",
+      "Yayladağı",
+      "Erzin",
+      "Belen",
+      "Kumlu"
+    ]
+  },
+  {
+    "id": 32,
+    "region": "Akdeniz Bölgesi",
+    "name": "Isparta",
+    "plaka": 32,
+    "towns": [
+      "Atabey",
+      "Eğirdir",
+      "Gelendost",
+      "Merkez",
+      "Keçiborlu",
+      "Senirkent",
+      "Sütçüler",
+      "Şarkikaraağaç",
+      "Uluborlu",
+      "Yalvaç",
+      "Aksu",
+      "Gönen",
+      "Yenişarbademli"
+    ]
+  },
+  {
+    "id": 33,
+    "region": "Akdeniz Bölgesi",
+    "name": "Mersin",
+    "plaka": 33,
+    "towns": [
+      "Anamur",
+      "Erdemli",
+      "Gülnar",
+      "Mut",
+      "Silifke",
+      "Tarsus",
+      "Aydıncık",
+      "Bozyazı",
+      "Çamlıyayla",
+      "Akdeniz",
+      "Mezitli",
+      "Toroslar",
+      "Yenişehir"
+    ]
+  },
+  {
+    "id": 34,
+    "region": "Marmara Bölgesi",
+    "name": "İstanbul",
+    "plaka": 34,
+    "towns": [
+      "Adalar",
+      "Bakırköy",
+      "Beşiktaş",
+      "Beykoz",
+      "Beyoğlu",
+      "Çatalca",
+      "Eyüp",
+      "Fatih",
+      "Gaziosmanpaşa",
+      "Kadıköy",
+      "Kartal",
+      "Sarıyer",
+      "Silivri",
+      "Şile",
+      "Şişli",
+      "Üsküdar",
+      "Zeytinburnu",
+      "Büyükçekmece",
+      "Kağıthane",
+      "Küçükçekmece",
+      "Pendik",
+      "Ümraniye",
+      "Bayrampaşa",
+      "Avcılar",
+      "Bağcılar",
+      "Bahçelievler",
+      "Güngören",
+      "Maltepe",
+      "Sultanbeyli",
+      "Tuzla",
+      "Esenler",
+      "Arnavutköy",
+      "Ataşehir",
+      "Başakşehir",
+      "Beylikdüzü",
+      "Çekmeköy",
+      "Esenyurt",
+      "Sancaktepe",
+      "Sultangazi"
+    ]
+  },
+  {
+    "id": 35,
+    "region": "Ege Bölgesi",
+    "name": "İzmir",
+    "plaka": 35,
+    "towns": [
+      "Aliağa",
+      "Bayındır",
+      "Bergama",
+      "Bornova",
+      "Çeşme",
+      "Dikili",
+      "Foça",
+      "Karaburun",
+      "Karşıyaka",
+      "Kemalpaşa",
+      "Kınık",
+      "Kiraz",
+      "Menemen",
+      "Ödemiş",
+      "Seferihisar",
+      "Selçuk",
+      "Tire",
+      "Torbalı",
+      "Urla",
+      "Beydağ",
+      "Buca",
+      "Konak",
+      "Menderes",
+      "Balçova",
+      "Çiğli",
+      "Gaziemir",
+      "Narlıdere",
+      "Güzelbahçe",
+      "Bayraklı",
+      "Karabağlar"
+    ]
+  },
+  {
+    "id": 36,
+    "region": "Doğu Anadolu Bölgesi",
+    "name": "Kars",
+    "plaka": 36,
+    "towns": [
+      "Arpaçay",
+      "Digor",
+      "Kağızman",
+      "Merkez",
+      "Sarıkamış",
+      "Selim",
+      "Susuz",
+      "Akyaka"
+    ]
+  },
+  {
+    "id": 37,
+    "region": "Karadeniz Bölgesi",
+    "name": "Kastamonu",
+    "plaka": 37,
+    "towns": [
+      "Abana",
+      "Araç",
+      "Azdavay",
+      "Bozkurt",
+      "Cide",
+      "Çatalzeytin",
+      "Daday",
+      "Devrekani",
+      "İnebolu",
+      "Merkez",
+      "Küre",
+      "Taşköprü",
+      "Tosya",
+      "İhsangazi",
+      "Pınarbaşı",
+      "Şenpazar",
+      "Ağlı",
+      "Doğanyurt",
+      "Hanönü",
+      "Seydiler"
+    ]
+  },
+  {
+    "id": 38,
+    "region": "İÇ ANADOLU",
+    "name": "Kayseri",
+    "plaka": 38,
+    "towns": [
+      "Bünyan",
+      "Develi",
+      "Felahiye",
+      "İncesu",
+      "Pınarbaşı",
+      "Sarıoğlan",
+      "Sarız",
+      "Tomarza",
+      "Yahyalı",
+      "Yeşilhisar",
+      "Akkışla",
+      "Talas",
+      "Kocasinan",
+      "Melikgazi",
+      "Hacılar",
+      "Özvatan"
+    ]
+  },
+  {
+    "id": 39,
+    "region": "Marmara Bölgesi",
+    "name": "Kırklareli",
+    "plaka": 39,
+    "towns": [
+      "Babaeski",
+      "Demirköy",
+      "Merkez",
+      "Kofçaz",
+      "Lüleburgaz",
+      "Pehlivanköy",
+      "Pınarhisar",
+      "Vize"
+    ]
+  },
+  {
+    "id": 40,
+    "region": "İÇ ANADOLU",
+    "name": "Kırşehir",
+    "plaka": 40,
+    "towns": [
+      "Çiçekdağı",
+      "Kaman",
+      "Merkez",
+      "Mucur",
+      "Akpınar",
+      "Akçakent",
+      "Boztepe"
+    ]
+  },
+  {
+    "name": "Kocaeli",
+    "plaka": 41,
+    "towns": [
+      "Gebze",
+      "Gölcük",
+      "Kandıra",
+      "Karamürsel",
+      "Körfez",
+      "Derince",
+      "Başiskele",
+      "Çayırova",
+      "Darıca",
+      "Dilovası",
+      "İzmit",
+      "Kartepe"
+    ]
+  },
+  {
+    "id": 41,
+    "region": "Marmara Bölgesi",
+    "name": "Konya",
+    "plaka": 42,
+    "towns": [
+      "Akşehir",
+      "Beyşehir",
+      "Bozkır",
+      "Cihanbeyli",
+      "Çumra",
+      "Doğanhisar",
+      "Ereğli",
+      "Hadim",
+      "ilgın",
+      "Kadınhanı",
+      "Karapınar",
+      "Kulu",
+      "Sarayönü",
+      "Seydişehir",
+      "Yunak",
+      "Akören",
+      "Altınekin",
+      "Derebucak",
+      "Hüyük",
+      "Karatay",
+      "Meram",
+      "Selçuklu",
+      "Taşkent",
+      "Ahırlı",
+      "Çeltik",
+      "Derbent",
+      "Emirgazi",
+      "Güneysınır",
+      "Halkapınar",
+      "Tuzlukçu",
+      "Yalıhüyük"
+    ]
+  },
+  {
+    "id": 43,
+    "region": "Ege Bölgesi",
+    "name": "Kütahya",
+    "plaka": 43,
+    "towns": [
+      "Altıntaş",
+      "Domaniç",
+      "Emet",
+      "Gediz",
+      "Merkez",
+      "Simav",
+      "Tavşanlı",
+      "Aslanapa",
+      "Dumlupınar",
+      "Hisarcık",
+      "Şaphane",
+      "Çavdarhisar",
+      "Pazarlar"
+    ]
+  },
+  {
+    "id": 44,
+    "region": "Doğu Anadolu Bölgesi",
+    "name": "Malatya",
+    "plaka": 44,
+    "towns": [
+      "Akçadağ",
+      "Arapgir",
+      "Arguvan",
+      "Darende",
+      "Doğanşehir",
+      "Hekimhan",
+      "Merkez",
+      "Pütürge",
+      "Yeşilyurt",
+      "Battalgazi",
+      "Doğanyol",
+      "Kale",
+      "Kuluncak",
+      "Yazıhan"
+    ]
+  },
+  {
+    "id": 45,
+    "region": "Ege Bölgesi",
+    "name": "Manisa",
+    "plaka": 45,
+    "towns": [
+      "Akhisar",
+      "Alaşehir",
+      "Demirci",
+      "Gördes",
+      "Kırkağaç",
+      "Kula",
+      "Merkez",
+      "Salihli",
+      "Sarıgöl",
+      "Saruhanlı",
+      "Selendi",
+      "Soma",
+      "Şehzadeler",
+      "Yunusemre",
+      "Turgutlu",
+      "Ahmetli",
+      "GölMarmara Bölgesi",
+      "Köprübaşı"
+    ]
+  },
+  {
+    "id": 46,
+    "region": "Akdeniz Bölgesi",
+    "name": "Kahramanmaraş",
+    "plaka": 46,
+    "towns": [
+      "Afşin",
+      "Andırın",
+      "Dulkadiroğlu",
+      "Onikişubat",
+      "Elbistan",
+      "Göksun",
+      "Merkez",
+      "Pazarcık",
+      "Türkoğlu",
+      "Çağlayancerit",
+      "Ekinözü",
+      "Nurhak"
+    ]
+  },
+  {
+    "id": 47,
+    "region": "Güneydoğu Anadolu Bölgesi",
+    "name": "Mardin",
+    "plaka": 47,
+    "towns": [
+      "Derik",
+      "Kızıltepe",
+      "Artuklu",
+      "Merkez",
+      "Mazıdağı",
+      "Midyat",
+      "Nusaybin",
+      "Ömerli",
+      "Savur",
+      "Dargeçit",
+      "Yeşilli"
+    ]
+  },
+  {
+    "id": 48,
+    "region": "Ege Bölgesi",
+    "name": "Muğla",
+    "plaka": 48,
+    "towns": [
+      "Bodrum",
+      "Datça",
+      "Fethiye",
+      "Köyceğiz",
+      "Marmaris",
+      "Menteşe",
+      "Milas",
+      "Ula",
+      "Yatağan",
+      "Dalaman",
+      "Seydikemer",
+      "Ortaca",
+      "Kavaklıdere"
+    ]
+  },
+  {
+    "id": 49,
+     "region": "Doğu Anadolu Bölgesi",
+    "name": "Muş",
+    "plaka": 49,
+    "towns": [
+      "Bulanık",
+      "Malazgirt",
+      "Merkez",
+      "Varto",
+      "Hasköy",
+      "Korkut"
+    ]
+  },
+  {
+    "id": 50,
+    "region": "İÇ ANADOLU",
+    "name": "Nevşehir",
+    "plaka": 50,
+    "towns": [
+      "Avanos",
+      "Derinkuyu",
+      "Gülşehir",
+      "Hacıbektaş",
+      "Kozaklı",
+      "Merkez",
+      "Ürgüp",
+      "Acıgöl"
+    ]
+  },
+  {
+    "id": 51,
+    "region": "İÇ ANADOLU",
+    "name": "Niğde",
+    "plaka": 51,
+    "towns": [
+      "Bor",
+      "Çamardı",
+      "Merkez",
+      "Ulukışla",
+      "Altunhisar",
+      "Çiftlik"
+    ]
+  },
+  {
+    "id": 52,
+    "region": "Karadeniz Bölgesi",
+    "name": "Ordu",
+    "plaka": 52,
+    "towns": [
+      "Akkuş",
+      "Altınordu",
+      "Aybastı",
+      "Fatsa",
+      "Gölköy",
+      "Korgan",
+      "Kumru",
+      "Mesudiye",
+      "Perşembe",
+      "Ulubey",
+      "Ünye",
+      "Gülyalı",
+      "Gürgentepe",
+      "Çamaş",
+      "Çatalpınar",
+      "Çaybaşı",
+      "İkizce",
+      "Kabadüz",
+      "Kabataş"
+    ]
+  },
+  {
+    "id": 53,
+    "region": "Karadeniz Bölgesi",
+    "name": "Rize",
+    "plaka": 53,
+    "towns": [
+      "Ardeşen",
+      "Çamlıhemşin",
+      "Çayeli",
+      "Fındıklı",
+      "İkizdere",
+      "Kalkandere",
+      "Pazar",
+      "Merkez",
+      "Güneysu",
+      "Derepazarı",
+      "Hemşin",
+      "İyidere"
+    ]
+  },
+  {
+    "id": 54,
+    "region": "Marmara Bölgesi",
+    "name": "Sakarya",
+    "plaka": 54,
+    "towns": [
+      "Akyazı",
+      "Geyve",
+      "Hendek",
+      "Karasu",
+      "Kaynarca",
+      "Sapanca",
+      "Kocaali",
+      "Pamukova",
+      "Taraklı",
+      "Ferizli",
+      "Karapürçek",
+      "Söğütlü",
+      "Adapazarı",
+      "Arifiye",
+      "Erenler",
+      "Serdivan"
+    ]
+  },
+  {
+    "id": 55,
+    "region": "Karadeniz Bölgesi",
+    "name": "Samsun",
+    "plaka": 55,
+    "towns": [
+      "Alaçam",
+      "Bafra",
+      "Çarşamba",
+      "Havza",
+      "Kavak",
+      "Ladik",
+      "Terme",
+      "Vezirköprü",
+      "Asarcık",
+      "Ondokuzmayıs",
+      "Salıpazarı",
+      "Tekkeköy",
+      "Ayvacık",
+      "Yakakent",
+      "Atakum",
+      "Canik",
+      "İlkadım"
+    ]
+  },
+  {
+    "id": 56,
+    "region": "Güneydoğu Anadolu Bölgesi",
+    "name": "Siirt",
+    "plaka": 56,
+    "towns": [
+      "Baykan",
+      "Eruh",
+      "Kurtalan",
+      "Pervari",
+      "Merkez",
+      "Şirvan",
+      "Tillo"
+    ]
+  },
+  {
+    "id": 57,
+    "region": "Karadeniz Bölgesi",
+    "name": "Sinop",
+    "plaka": 57,
+    "towns": [
+      "Ayancık",
+      "Boyabat",
+      "Durağan",
+      "Erfelek",
+      "Gerze",
+      "Merkez",
+      "Türkeli",
+      "Dikmen",
+      "Saraydüzü"
+    ]
+  },
+  {
+    "id": 58,
+    "region": "İÇ ANADOLU",
+    "name": "Sivas",
+    "plaka": 58,
+    "towns": [
+      "Divriği",
+      "Gemerek",
+      "Gürün",
+      "Hafik",
+      "İmranlı",
+      "Kangal",
+      "Koyulhisar",
+      "Merkez",
+      "Suşehri",
+      "Şarkışla",
+      "Yıldızeli",
+      "Zara",
+      "Akıncılar",
+      "Altınyayla",
+      "Doğanşar",
+      "Gölova",
+      "Ulaş"
+    ]
+  },
+  {
+    "id": 59,
+    "region": "Marmara Bölgesi",
+    "name": "Tekirdağ",
+    "plaka": 59,
+    "towns": [
+      "Çerkezköy",
+      "Çorlu",
+      "Ergene",
+      "Hayrabolu",
+      "Malkara",
+      "Muratlı",
+      "Saray",
+      "Süleymanpaşa",
+      "Kapaklı",
+      "Şarköy",
+      "Marmara Bölgesiereğlisi"
+    ]
+  },
+  {
+    "id": 60,
+    "region": "Karadeniz Bölgesi",
+    "name": "Tokat",
+    "plaka": 60,
+    "towns": [
+      "Almus",
+      "Artova",
+      "Erbaa",
+      "Niksar",
+      "Reşadiye",
+      "Merkez",
+      "Turhal",
+      "Zile",
+      "Pazar",
+      "Yeşilyurt",
+      "Başçiftlik",
+      "Sulusaray"
+    ]
+  },
+  {
+    "id": 61,
+    "region": "Karadeniz Bölgesi",
+    "name": "Trabzon",
+    "plaka": 61,
+    "towns": [
+      "Akçaabat",
+      "Araklı",
+      "Arsin",
+      "Çaykara",
+      "Maçka",
+      "Of",
+      "Ortahisar",
+      "Sürmene",
+      "Tonya",
+      "Vakfıkebir",
+      "Yomra",
+      "Beşikdüzü",
+      "Şalpazarı",
+      "Çarşıbaşı",
+      "Dernekpazarı",
+      "Düzköy",
+      "Hayrat",
+      "Köprübaşı"
+    ]
+  },
+  {
+    "id": 62,
+    "region": "Doğu Anadolu Bölgesi",
+    "name": "Tunceli",
+    "plaka": 62,
+    "towns": [
+      "Çemişgezek",
+      "Hozat",
+      "Mazgirt",
+      "Nazımiye",
+      "Ovacık",
+      "Pertek",
+      "Pülümür",
+      "Merkez"
+    ]
+  },
+  {
+    "id": 63,
+    "region": "Güneydoğu Anadolu Bölgesi",
+    "name": "Şanlıurfa",
+    "plaka": 63,
+    "towns": [
+      "Akçakale",
+      "Birecik",
+      "Bozova",
+      "Ceylanpınar",
+      "Eyyübiye",
+      "Halfeti",
+      "Haliliye",
+      "Hilvan",
+      "Karaköprü",
+      "Siverek",
+      "Suruç",
+      "Viranşehir",
+      "Harran"
+    ]
+  },
+  {
+    "id": 64,
+    "region": "Ege Bölgesi",
+    "name": "Uşak",
+    "plaka": 64,
+    "towns": [
+      "Banaz",
+      "Eşme",
+      "Karahallı",
+      "Sivaslı",
+      "Ulubey",
+      "Merkez"
+    ]
+  },
+  {
+    "id": 65,
+    "region": "Doğu Anadolu Bölgesi",
+    "name": "Van",
+    "plaka": 65,
+    "towns": [
+      "Başkale",
+      "Çatak",
+      "Erciş",
+      "Gevaş",
+      "Gürpınar",
+      "İpekyolu",
+      "Muradiye",
+      "Özalp",
+      "Tuşba",
+      "Bahçesaray",
+      "Çaldıran",
+      "Edremit",
+      "Saray"
+    ]
+  },
+  {
+    "id": 66,
+    "region": "İÇ ANADOLU",
+    "name": "Yozgat",
+    "plaka": 66,
+    "towns": [
+      "Akdağmadeni",
+      "Boğazlıyan",
+      "Çayıralan",
+      "Çekerek",
+      "Sarıkaya",
+      "Sorgun",
+      "Şefaatli",
+      "Yerköy",
+      "Merkez",
+      "Aydıncık",
+      "Çandır",
+      "Kadışehri",
+      "Saraykent",
+      "Yenifakılı"
+    ]
+  },
+  {
+    "id": 67,
+    "region": "Karadeniz Bölgesi",
+    "name": "Zonguldak",
+    "plaka": 67,
+    "towns": [
+      "Çaycuma",
+      "Devrek",
+      "Ereğli",
+      "Merkez",
+      "Alaplı",
+      "Gökçebey"
+    ]
+  },
+  {
+    "id": 68,
+    "region": "İÇ ANADOLU",
+    "name": "Aksaray",
+    "plaka": 68,
+    "towns": [
+      "Ağaçören",
+      "Eskil",
+      "Gülağaç",
+      "Güzelyurt",
+      "Merkez",
+      "Ortaköy",
+      "Sarıyahşi"
+    ]
+  },
+  {
+    "id": 69,
+    "region": "Karadeniz Bölgesi",
+    "name": "Bayburt",
+    "plaka": 69,
+    "towns": [
+      "Merkez",
+      "Aydıntepe",
+      "Demirözü"
+    ]
+  },
+  {
+    "id": 70,
+    "region": "İÇ ANADOLU",
+    "name": "Karaman",
+    "plaka": 70,
+    "towns": [
+      "Ermenek",
+      "Merkez",
+      "Ayrancı",
+      "Kazımkarabekir",
+      "Başyayla",
+      "Sarıveliler"
+    ]
+  },
+  {
+    "id": 71,
+    "region": "İÇ ANADOLU",
+    "name": "Kırıkkale",
+    "plaka": 71,
+    "towns": [
+      "Delice",
+      "Keskin",
+      "Merkez",
+      "Sulakyurt",
+      "Bahşili",
+      "Balışeyh",
+      "Çelebi",
+      "Karakeçili",
+      "Yahşihan"
+    ]
+  },
+  {
+    "id": 72,
+    "region": "Güneydoğu Anadolu Bölgesi",
+    "name": "Batman",
+    "plaka": 72,
+    "towns": [
+      "Merkez",
+      "Beşiri",
+      "Gercüş",
+      "Kozluk",
+      "Sason",
+      "Hasankeyf"
+    ]
+  },
+  {
+    "id": 73,
+    "region": "Güneydoğu Anadolu Bölgesi",
+    "name": "Şırnak",
+    "plaka": 73,
+    "towns": [
+      "Beytüşşebap",
+      "Cizre",
+      "İdil",
+      "Silopi",
+      "Merkez",
+      "Uludere",
+      "Güçlükonak"
+    ]
+  },
+  {
+    "id": 74,
+    "region": "Karadeniz Bölgesi",
+    "name": "Bartın",
+    "plaka": 74,
+    "towns": [
+      "Merkez",
+      "Kurucaşile",
+      "Ulus",
+      "Amasra"
+    ]
+  },
+  {
+    "id": 75,
+    "region": "Doğu Anadolu Bölgesi",
+    "name": "Ardahan",
+    "plaka": 75,
+    "towns": [
+      "Merkez",
+      "Çıldır",
+      "Göle",
+      "Hanak",
+      "Posof",
+      "Damal"
+    ]
+  },
+  {
+    "id": 76,
+    "region": "Doğu Anadolu Bölgesi",
+    "name": "Iğdır",
+    "plaka": 76,
+    "towns": [
+      "Aralık",
+      "Merkez",
+      "Tuzluca",
+      "Karakoyunlu"
+    ]
+  },
+  {
+    "id": 77,
+    "region": "Marmara Bölgesi",
+    "name": "Yalova",
+    "plaka": 77,
+    "towns": [
+      "Merkez",
+      "Altınova",
+      "Armutlu",
+      "Çınarcık",
+      "Çiftlikköy",
+      "Termal"
+    ]
+  },
+  {
+    "id": 78,
+    "region": "Karadeniz Bölgesi",
+    "name": "Karabük",
+    "plaka": 78,
+    "towns": [
+      "Eflani",
+      "Eskipazar",
+      "Merkez",
+      "Ovacık",
+      "Safranbolu",
+      "Yenice"
+    ]
+  },
+  {
+    "id": 79,
+    "region": "Güneydoğu Anadolu Bölgesi",
+    "name": "Kilis",
+    "plaka": 79,
+    "towns": [
+      "Merkez",
+      "Elbeyli",
+      "Musabeyli",
+      "Polateli"
+    ]
+  },
+  {
+    "id": 80,
+    "region": "Akdeniz Bölgesi",
+    "name": "Osmaniye",
+    "plaka": 80,
+    "towns": [
+      "Bahçe",
+      "Kadirli",
+      "Merkez",
+      "Düziçi",
+      "Hasanbeyli",
+      "Sumbas",
+      "Toprakkale"
+    ]
+  },
+  {
+    "id": 81,
+    "region": "Karadeniz Bölgesi",
+    "name": "Düzce",
+    "plaka": 81,
+    "towns": [
+      "Akçakoca",
+      "Merkez",
+      "Yığılca",
+      "Cumayeri",
+      "Gölyaka",
+      "Çilimli",
+      "Gümüşova",
+      "Kaynaşlı"
+    ]
+  }
+]
